@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
     firstName = "Jacob"
     lastName = "Blomquist"
-    address = "1105 Union Street, Manchester, NH"
+    address = "1234 Fake Drive, Fake City, Fake State"
     phone = "000-000-0000"
     profileImage = "img/me.png"
     email = "jacob@blomquist.org"
